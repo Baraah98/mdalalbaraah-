@@ -1,0 +1,2 @@
+x= "mdalal"
+print(x)
